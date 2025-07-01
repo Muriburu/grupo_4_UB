@@ -1,0 +1,16 @@
+{
+    "grupo_dict": {
+        "0": "inflamatorio-neurológico",
+        "1": "multiorgánico pediátrico",
+        "2": "dismórfico-congénito",
+        "3": "neurodesarrollo",
+        "No clasificado": "No clasificado"
+    },
+    "descripcion_dict": {
+        "0": "Enfermedades inflamatorias sistémicas, hematológicas y neurodegenerativas con manifestaciones constitucionales y neurosensoriales",
+        "1": "Enfermedades pediátricas funcionales y multiorgánicas con afectación del desarrollo, aparato  respiratorio, digestivo  y salud mental",
+        "2": "Enfermedades congénitas dismórficas con malformaciones craneofaciales, genitales y cardíacas, típicas de síndromes estructurales genéticos",
+        "3": "Síndromes del neurodesarrollo con afectación intelectual, craneofacial y motora, de origen genético",
+        "No clasificado": "Datos insuficientes para clasificación fenotípica"
+    }
+}
