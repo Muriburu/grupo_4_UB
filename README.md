@@ -26,7 +26,7 @@ El objetivo del proyecto es realizar un análisis exploratorio y agrupamiento de
  
 ## 👥 Integrantes del Grupo 4
 
-- Luis Manuel Contreras Ceron
+- Luis Manuel Contreras Cerón
 - Clara Díaz García
 - Alejandro Sotero Moreno
 - María Uriburu Gray
